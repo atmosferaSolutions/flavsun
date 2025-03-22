@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+html {
+    scroll-behavior: smooth;
+}
+
+@theme {
+    --color-safety-yellow: #EED618;
+    --color-tangerine: #F0860C;
+    --color-sinopia: #C74704;
+    --color-flash: #F1F1F1;
+    --color-blizzard-blue: #62BDD4;
+    --color-midnight: #024D59;
+}
